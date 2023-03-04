@@ -1,7 +1,7 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm Jayesha
 - 👀 I’m interested in coding.
 - 💬 Ask me about **anything, I am happy to help.**
-- 📫 How to reach me **jdampage@gmail.com**
+- 📫 If you need any help drop a mail on **jdampage@gmail.com** 
 - 🌱 I’m currently learning **Python** and **Go**.
 
 ## 🔗 Connect with me
